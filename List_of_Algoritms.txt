@@ -1,0 +1,74 @@
+Here is a list of commonly used algorithms in programming:
+
+Sorting Algorithms:
+	Bubble Sort
+	Selection Sort
+	Insertion Sort
+	Merge Sort
+	Quick Sort
+	Heap Sort
+	Radix Sort
+	Counting Sort
+
+Searching Algorithms:
+	Linear Search
+	Binary Search
+	Hashing (e.g., using hash tables)
+	Breadth-First Search (BFS)
+	Depth-First Search (DFS)
+
+Graph Algorithms:
+	Dijkstra's Algorithm (shortest path)
+	Bellman-Ford Algorithm (shortest path)
+	Kruskal's Algorithm (minimum spanning tree)
+	Prim's Algorithm (minimum spanning tree)
+	Floyd-Warshall Algorithm (all pairs shortest path)
+	Topological Sorting
+
+Dynamic Programming Algorithms:
+	Fibonacci sequence
+	Knapsack problem
+	Longest Common Subsequence (LCS)
+	Edit Distance
+
+Tree Algorithms:
+	Tree Traversal (pre-order, in-order, post-order)
+	Binary Search Tree (BST)
+	AVL Tree (self-balancing BST)
+	Red-Black Tree (self-balancing BST)
+	Heap (priority queue)
+	Trie (prefix tree)
+
+String Algorithms:
+	String Matching (e.g., Knuth-Morris-Pratt, Boyer-Moore)
+	Longest Common Substring
+	Regular Expression Matching
+
+Numerical Algorithms:
+	Sieve of Eratosthenes (prime numbers)
+	Euclidean Algorithm (GCD)
+	Fast Fourier Transform (FFT)
+	Simulated Annealing (optimization)
+
+Computational Geometry Algorithms:
+	Convex Hull (e.g., Graham's scan, Jarvis march)
+	Line Intersection
+	Closest Pair of Points
+
+Backtracking Algorithms:
+	N-Queens Problem
+	Sudoku Solver
+	Hamiltonian Path/Cycle
+
+Machine Learning Algorithms:
+	Linear Regression
+	Logistic Regression
+	Decision Trees
+	Random Forests
+	Support Vector Machines (SVM)
+	K-Nearest Neighbors (KNN)
+	Naive Bayes
+	Neural Networks (various architectures)
+
+
+Please note that this is not an exhaustive list, as there are many more algorithms and variations in different areas of programming.
